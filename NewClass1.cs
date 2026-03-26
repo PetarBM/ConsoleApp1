@@ -5,7 +5,7 @@
 
 public class NewClass
 {
-	public Class1()
+	public NewClass()
 	{
 	}
 }
