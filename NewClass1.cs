@@ -10,3 +10,4 @@ public class NewClass
 	}
 }
 //dodani komentar
+//jos jedan komentar
